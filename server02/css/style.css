@@ -1,0 +1,12 @@
+body{
+    margin: 40px;
+    font-size:16px;
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+a:active{
+    color:red;
+}
